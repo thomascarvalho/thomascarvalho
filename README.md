@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Thomas
+## Hi there 👋, I'm Thomas Carvalho
 
+I’m a French full-stack developer, freelance.
 
-### A passionate Full-Stack developer from France.
+[My portfolio](https://thomascarvalho.com)
